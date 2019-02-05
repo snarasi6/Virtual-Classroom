@@ -1,0 +1,4 @@
+create table s_account(fname varchar(15),lname varchar(15),dd varchar(3),mm varchar(5),yy varchar(5),gender varchar(5),emailid varchar(40),mob varchar(12),qualification varchar(10),dept varchar(10),uname varchar(20),password varchar(20));
+
+
+create table t_account(fname varchar(15),lname varchar(15),dd varchar(3),mm varchar(5),yy varchar(5),gender varchar(5),emailid varchar(40),mob varchar(12),qualification varchar(10),dept varchar(10),uname varchar(20),password varchar(20));
